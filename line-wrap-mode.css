@@ -1,0 +1,8 @@
+.log-entry-view .summary-container.short-summary .summary-text[sandboxuid="0"] {
+  overflow-wrap: anywhere !important;
+  white-space: pre-wrap !important;
+}
+
+.log-entry-view .log-entry-container .log-line-container[sandboxuid="0"] {
+  height: unset !important;
+}

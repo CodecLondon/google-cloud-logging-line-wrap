@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Google Cloud Logging Line Wrap",
+  "description": "Forces line wraps in google cloud logging logs explorer for better readability",
+  "version": "1.0",
+  "permissions": ["activeTab", "scripting"],
+  "action": {},
+  "background": {
+    "service_worker": "background.js"
+  }
+}
